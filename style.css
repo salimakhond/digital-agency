@@ -127,9 +127,9 @@ a {
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: 100vh;
-    padding-bottom: 120px;
+    padding-bottom: 175px;
     background-blend-mode: overlay;
+    padding-top: 100px;
 }
 
 .sub-titel {
@@ -383,10 +383,6 @@ footer {
     margin: auto;
     border-bottom: 1px solid gray;
 }
-
-.logo-box {}
-
-.logo-box img {}
 
 .logo-box {
     width: 25%;
